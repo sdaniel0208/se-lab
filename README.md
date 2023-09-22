@@ -1,3 +1,5 @@
+
+valtozas2
 # SE Spaceship
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
